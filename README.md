@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me git
 - 😄 Pronouns: i am him
-- ⚡ Fun fact: tech is pronouncedas tek
+- ⚡ Fun fact: tech is pronounced as tek
 
 <!---
 Addieshawt/Addieshawt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
